@@ -36,7 +36,7 @@ const Navbar = () => {
     </>
   );
   return (
-    <div className="w-[90%] mx-auto">
+    <div className="w-[90%] mx-auto my-3">
       <div className="navbar col-span-1 bg-base-100 justify-center ">
         <div className="navbar-start lg:w-[40%]">
           <div className="dropdown  ">
@@ -86,7 +86,7 @@ const Navbar = () => {
             </ul>
             
           </div>
-          <img className="md:w-[40%] ml-5 md:ml-0" src={logo} alt="logo" />
+          <img className="md:w-[40%] lg:w-[50%] ml-5 md:ml-0" src={logo} alt="logo" />
         </div>
         <div className="navbar-start col-span-3 hidden lg:flex lg:w-[70%]">
           <ul className="menu menu-horizontal px-1 ">{navitems}</ul>
