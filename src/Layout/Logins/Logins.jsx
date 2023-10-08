@@ -71,13 +71,11 @@ const Logins = () => {
                 </a>
               </label>
             </div>
-            {/* <Navigate to={"/"}> */}
             <input
               type="submit"
               value={"Login"}
               className="text-white font-bold bg-blue-500 px-4 text-center py-3 rounded-lg"
             />
-            {/* </Navigate> */}
           </form>
           <div className="text-center">
             <h1>
@@ -92,10 +90,6 @@ const Logins = () => {
             <div>or</div>
             <div className="bg-black h-[1px] w-1/3"></div>
           </div>
-          <button className="grid grid-cols-3 font-bold border-2 px-4 text-center py-3 rounded-lg mx-7 mb-2  hover:bg-blue-500  hover:text-white">
-            <FaFacebook className="w-10 text-3xl "></FaFacebook>
-            <span>Facebook</span>
-          </button>
           <button
             onClick={googleResister}
             className="grid grid-cols-3 font-bold border-2 px-4 text-center py-3 rounded-lg mx-7 mb-6 hover:bg-blue-500  hover:text-white"
