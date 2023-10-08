@@ -19,16 +19,16 @@ const Routes = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
-        loader: () => fetch("./photodata.json"),
+        loader: () => fetch("/photodata.json"),
       },
       {
-        path: "/:id",
+        path: "/photo/:id",
         element: (
           <PrivateRoutes>
             <Photography></Photography>
           </PrivateRoutes>
         ),
-        loader: () => fetch("./photodata.json"),
+        loader: () => fetch("/photodata.json"),
         
       },
       {
@@ -38,7 +38,7 @@ const Routes = createBrowserRouter([
             <Blog></Blog>
           </PrivateRoutes>
         ),
-        loader: () => fetch("./photodata.json"),
+        loader: () => fetch("/photodata.json"),
       },
       {
         path: "/category",

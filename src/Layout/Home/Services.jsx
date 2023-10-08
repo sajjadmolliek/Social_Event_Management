@@ -24,7 +24,7 @@ const Services = ({ data }) => {
                   <p className="my-4">{event.description}</p>
                   <div className="card-actions justify-between mb-4 items-center">
                     <button className="btn btn-success text-white">{event.price}</button>
-                    <NavLink to={`/${event.id}`} className="btn btn-success text-white">Show Details</NavLink>
+                    <NavLink to={`/photo/${event.id}`} className="btn btn-success text-white">Show Details</NavLink>
                   </div>
                 </div>
               </div>
