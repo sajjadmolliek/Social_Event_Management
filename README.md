@@ -20,6 +20,6 @@ Explain: Here we have an array,and condition and a function. in the condition ha
 # LinkS: 
 
 1. Website Name: Social-Event-Management.
-2. live Link: 
+2. live Link: https://social-event-management-8ae1a.web.app/
 
 
