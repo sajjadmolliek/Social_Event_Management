@@ -1,8 +1,25 @@
-# React + Vite
+# MCQ ANSWER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. The Answer is: A: {}.
+Explain: Here we get a empty object so that the answer will be an empty object.
 
-Currently, two official plugins are available:
+2. The Answer is: B: TypeError.
+Explain: Here we call the function but we don't console the function. so we can find any answer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. The Answer is: A: ['🍕', '🍫', '🥑', '🍔'].
+Explain:  we were put the items : '🍕', '🍫', '🥑', '🍔' in a variable array and we console this variable. So the The ans also this.
+
+4. The Answer is: B: Hi there, undefined
+Explain: We call the function but we don't pass any value to the function so answer is undefine but in the function have include 'Hi there' so hi there will be include in the answer.
+
+5. The Answer is: C: 3.
+Explain: Here we have an array,and condition and a function. in the condition have dependance that we can be pre increment if the numbers includes in the array. so when we call by this function and console this function the answer will be 3.
+
+
+
+# LinkS: 
+
+1. Website Name: Social-Event-Management.
+2. live Link: 
+
+
