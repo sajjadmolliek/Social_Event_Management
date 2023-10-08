@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Weddings",
+      "description": "Capture the magic of your special day with our professional photography services. From romantic ceremonies to lively receptions, we'll document every moment.",
+      "image": "https://i.ibb.co/Wp5fzSb/wedding-Photojpg.jpg",
+      "price": "$2,500"
+    },
+    {
+      "id": 2,
+      "title": "Birthday Parties",
+      "description": "Make your birthday celebration unforgettable with our event planning expertise. From themed decorations to delectable cakes, we've got it covered.",
+      "image": "https://i.ibb.co/jWfGBQF/birthday-celebrations-Photo.jpg",
+      "price": "$500"
+    },
+    {
+      "id": 3,
+      "title": "Anniversaries",
+      "description": "Celebrate your love story with elegance and style. Our anniversary event services include everything from romantic venues to gourmet dining.",
+      "image": "https://i.ibb.co/vzswHxP/eneversary-Photo.jpg",
+      "price": "$1,200"
+    },
+    {
+      "id": 4,
+      "title": "Engagement Parties",
+      "description": "Announce your love to the world with a spectacular engagement party. We provide stunning decor, entertainment, and photography services for your special occasion.",
+      "image": "https://i.ibb.co/wYnJ1pL/elegant-couple-Photo.jpg",
+      "price": "$800"
+    },
+    {
+      "id": 5,
+      "title": "Retirement Parties",
+      "description": "Bid farewell to a long and successful career in style. Our retirement party planning ensures a memorable send-off for your valued colleague.",
+      "image": "https://i.ibb.co/T1vR56T/Retairerment-Photo.jpg",
+      "price": "$600"
+    },
+    {
+      "id": 6,
+      "title": "Baby Shower",
+      "description": "Welcome the arrival of your little one with a charming baby shower. We arrange everything, from adorable themes to delightful treats for the parents-to-be.",
+      "image": "https://i.ibb.co/hVR04mB/Baby-Shawer.webp",
+      "price": "$400"
+    }
+  ]
+  
