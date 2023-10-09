@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 const Services = ({ data }) => {
 
   return (
-    <div className="my-20">
+    <div className="my-20 mt-32">
       <div>
         <h1 className="text-4xl underline font-bold text-center">
           Services Of Us

@@ -1,7 +1,6 @@
 import { NavLink, useNavigate } from "react-router-dom";
 import usePrivateHook from "../../Hooks/usePrivateHook";
 import { FcGoogle } from "react-icons/fc";
-import { FaFacebook } from "react-icons/fa6";
 import swal from "sweetalert";
 
 const Resister = () => {
