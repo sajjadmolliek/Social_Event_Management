@@ -79,7 +79,7 @@ const CarosoleBanner = () => {
           </div>
         </div>
       </div>
-      <div className="lg:-mt-[30%] -mt-[50%] mx-auto max-w-6xl  text-white h-96 ">
+      <div className="md:-mt-[30%] -mt-[50%] mx-auto max-w-6xl  text-white lg:h-96 ">
         <p className="lg:text-8xl  md:text-5xl text-2xl  font-bold text-center ">Join the celebration and <br /> {`let's make memories.`}</p>
         <br />
         <hr className="lg:w-[60rem] md:w-[30rem] w-[15rem] mx-auto" />
