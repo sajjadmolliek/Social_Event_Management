@@ -10,7 +10,7 @@ const Navbar = () => {
     logOut();
   };
   const userName = user?.displayName;
-  console.log(user);
+  
   const navitems = (
     <>
       <li>

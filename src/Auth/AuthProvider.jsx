@@ -78,7 +78,7 @@ const AuthProvider = ({ children }) => {
     setUserName,
 
   };
-  console.log(user);
+
   return (
     <AuthContext.Provider value={passValue}>{children}</AuthContext.Provider>
   );
